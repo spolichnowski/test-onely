@@ -1,0 +1,12 @@
+Web Development was the first topic that brought me into programming. 
+I started with simple HTML and CSS websites. I got an opportunity to take part in an internship. 
+I learned there about the Python programming language. I was amazed by the simplicity of the syntax in comparison to C++ that I was being taught in my school. 
+After Python, I learned about Django and DRF. I created more Advanced applications with the PostgreSQL database and Django ORM. 
+During my next internship, I learned about the Frontend. 
+I had already some basic JavaScript knowledge and on top of that, I was introduced to React. I used APIs to get data, created layouts and animations. 
+Other than that I spend a lot of time studying different documentations and making personal apps to advance my knowledge.
+Examples of my projects:
+- https://github.com/spolichnowski/diet-manager
+- https://github.com/spolichnowski/sign-language-interpreter-back
+- https://github.com/spolichnowski/sign-language-iterpreter-front
+
